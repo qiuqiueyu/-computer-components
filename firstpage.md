@@ -10,7 +10,7 @@
 - [第 4 章 指令系统](sslocal://flow/file_open?url=%E7%AC%AC4%E7%AB%A0_%E6%8C%87%E4%BB%A4%E7%B3%BB%E7%BB%9F.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 - [第 5 章 中央处理器 CPU](sslocal://flow/file_open?url=%E7%AC%AC5%E7%AB%A0_%E4%B8%AD%E5%A4%AE%E5%A4%84%E7%90%86%E5%99%A8CPU.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 - [第 6 章 总线系统](sslocal://flow/file_open?url=%E7%AC%AC6%E7%AB%A0_%E6%80%BB%E7%BA%BF%E7%B3%BB%E7%BB%9F.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [第 7 章 I/O 设备与 I/O 系统]([sslocal://flow/file_open?url=%E7%AC%AC7%E7%AB%A0_IO%E8%AE%BE%E5%A4%87.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=](https://github.com/qiuqiueyu/-computer-components/blob/main/%E7%AC%AC%E4%B8%83%E7%AB%A0.md))
+[- [第 7 章 I/O 设备与 I/O 系统]([sslocal://flow/file_open?url=%E7%AC%AC7%E7%AB%A0_IO%E8%AE%BE%E5%A4%87.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=](https://github.com/qiuqiueyu/-computer-components/blob/main/%E7%AC%AC%E4%B8%83%E7%AB%A0.md))](https://github.com/qiuqiueyu/-computer-components/blob/main/%E7%AC%AC%E4%B8%83%E7%AB%A0.md)
 
 ---
 
