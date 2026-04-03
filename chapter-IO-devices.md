@@ -1,4 +1,4 @@
-[第7章 I/O设备](chapter IO devices.md)
+[第7章 I/O设备](chapter-IO-devices.md)
 # 第7章 I/O设备与I/O系统
 
 > 纯文本 · 无图片 · GitHub直接渲染
