@@ -11,7 +11,7 @@
 ---
 
 ## 目录（点击即可跳转）
-- [第7章 输入/输出系统](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2Fqiu001-computer-notes%2Fmain%2FIO.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+[第7章 I/O设备与系统](sslocal://flow/file_open?url=chapter-io-devices.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 ## ✨ 项目特点
 - 纯 Markdown，GitHub 原生渲染
 - 无图片依赖，结构清晰、轻量化
